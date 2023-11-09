@@ -23,20 +23,28 @@ Certifique-se de ter o Node.js instalado para executar o sistema.
 
 1. Clone o repositório:
 
-bash
+```bash
 git clone https://github.com/mylenaaraujo08/ProjetoCadastro.git
 
+```
+
 2. Navegue até o diretório do projeto:
-bash
-cd nome-do-repositorio
+
+```bash
+cd ProjetoCadastro
+```
 
 3. Instale as dependências:
-
+   
+```bash
 npm install
+```
 
 4. Execute o sistema:
-
+   
+```bash
 npm start
+```
 
 ## Funcionalidades
 - Listar veículos por tipo
