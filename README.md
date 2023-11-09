@@ -5,7 +5,7 @@
 Este projeto foi desenvolvido como parte do curso de Desenvolvedor Web Back End da Softex-FAP. O projeto consiste em um sistema 
 de cadastro de veículos, onde é possível listar, cadastrar, buscar, alterar e remover veículos.
 
-![Logo](./Projeto_Cadastro_de_Veiculos\img.png)
+![Logo](./Projeto_Cadastro_de_Veiculos\capaProjeto.png)
 
 ## Desenvolvedoras
 
