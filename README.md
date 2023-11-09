@@ -25,23 +25,5 @@ Certifique-se de ter o Node.js instalado para executar o sistema.
 
 ```bash
 git clone https://github.com/mylenaaraujo08/ProjetoCadastro.git
+**
 
-2. Navegue até o diretório do projeto:
-cd nome-do-repositorio
-
-3. Instale as dependências:
-npm install
-
-4. Execute o sistema:
-npm start
-
-## Funcionalidades
-- Listar veículos por tipo
-- Cadastrar novos veículos
-- Buscar veículos por tipo, modelo e ano
-- Alterar informações de veículos
-- Remover veículos
-
-## Agradecimentos
-
-Agradecemos ao Profº Waldeck Lindoso pela orientação e à Softex-FAP pela oportunidade de aprendizado.
